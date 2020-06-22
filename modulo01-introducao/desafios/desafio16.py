@@ -1,0 +1,5 @@
+print('Dario', type('Dario'))
+print('Campagna', type('Campagna'))
+print(34, type(24))
+print(1.76, type(1.74))
+print(10 == 10, type(10 == 10))
